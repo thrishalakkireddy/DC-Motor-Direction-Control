@@ -121,7 +121,7 @@ DC-Motor-Direction-Control/
 
 ## Author
 
-**LakkiReddy Thrisha
+LakkiReddy Thrisha
 
 Electronics and Communication Engineering (ECE)
 
